@@ -1,5 +1,5 @@
 # 💫 About Me:
-Helloo my name is Noval Andriansyah, I' m a fresh graduate in Electrical Engineering and now I'm currently learning about web development with MERN (Mongo DB, Express JS, React JS and NodeJS) Stack.
+Hello, my name is Noval Andriansyah. I'm a fresh graduate in Electrical Engineering, and now I'm starting to learn about web development with the MERN (Mongo DB, Express JS, React JS, and Node JS) stack.
 
 
 ## 🌐 Socials:
